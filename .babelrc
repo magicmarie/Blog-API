@@ -1,0 +1,5 @@
+// babel compiles the code to ES5 that nodejs runtime can understand.
+
+{
+    "presets":["babel-preset-env"]
+  }
